@@ -31,7 +31,7 @@
     /*
         The "Plugin" constructor, builds a new instance of the plugin for the
         DOM node(s) that the plugin is called on. For example,
-        "$('h1').pluginName();" creates a new instance of pluginName for
+        "$('h1').myPluginName();" creates a new instance of pluginName for
         all h1's.
     */
     // Create the plugin constructor
